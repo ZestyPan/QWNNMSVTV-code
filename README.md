@@ -3,6 +3,6 @@ This is the code of ''Jing Pan, Jianguang Zhu, Binbin Hao, Quaternion-Based Weig
 Run main.m to test our proposed algorithm. 
 
 qtfm_2_8 is the quaternion toolbox download from 
-https://sourceforge.net/projects/qtfm/, please unzip it and add to your path. 
+https://sourceforge.net/projects/qtfm/. 
 
 The detail please see the corresponding paper.
